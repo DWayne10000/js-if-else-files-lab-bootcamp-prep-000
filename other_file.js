@@ -1,2 +1,2 @@
 console.log(name)
-nodejso
+nodejs other_file.ja
