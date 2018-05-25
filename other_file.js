@@ -1,2 +1,1 @@
-console.log(name)
-nodejs other_file.ja
+var index = require("./index.js")
