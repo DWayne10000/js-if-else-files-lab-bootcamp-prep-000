@@ -5,3 +5,5 @@ var height = "74"
 module.exports = { name, height
 }
 
+console.log(name)
+nodejs other_file.js
